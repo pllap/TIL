@@ -20,4 +20,11 @@
       > check if I did correctly
     9. git push *remote* *branch*
     10. git pull *remote* *branch*
+    + git remote add origin *repository*: register origin
+#### Markdown
+    #: Font size (more # -> smaller font)
+    *word*: Italic type
+    >: Indentation
+    - - - or ***: Horizontal Line
+    '    ' or tab: Code block (make sure the block is over)
 - - -
